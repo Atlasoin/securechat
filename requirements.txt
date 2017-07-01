@@ -1,0 +1,9 @@
+pip3 install sip
+pip3 install pyqt5
+pip3 install rsa
+pip3 install pymysql
+https://www.dannysite.com/blog/216/
+#pip3 install virtualenv
+pip3 install tornado
+pip3 install requests
+#pip3 install signxml
